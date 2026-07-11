@@ -1,0 +1,5 @@
+# #30NitesofCode - Python dependencies
+# Agrega aquí las librerías que vayas usando
+# Ejemplo:
+# requests==2.31.0
+# pandas==2.1.0
