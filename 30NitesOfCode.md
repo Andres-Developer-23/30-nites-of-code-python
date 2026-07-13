@@ -10,20 +10,20 @@
 
 | Día | Tema | Enlace |
 |-----|------|--------|
-| 1 | Sintaxis básica y variables | [Ver →](./Dia-1/30NitesOfCode.md) |
-| 2 | Operadores y entrada de datos | [Ver →](./Dia-2/30NitesOfCode.md) |
-| 3 | Estructuras condicionales | [Ver →](./Dia-3/30NitesOfCode.md) |
-| 4 | Bucles (while y for) | [Ver →](./Dia-4/30NitesOfCode.md) |
-| 5 | Listas y métodos | [Ver →](./Dia-5/30NitesOfCode.md) |
-| 6 | Tuplas, Sets y Diccionarios | [Ver →](./Dia-6/30NitesOfCode.md) |
-| 7 | Funciones básicas | [Ver →](./Dia-7/30NitesOfCode.md) |
+| 1 | Sintaxis básica y variables | [Ver →](./Dia-01/30NitesOfCode.md) |
+| 2 | Operadores y entrada de datos | [Ver →](./Dia-02/30NitesOfCode.md) |
+| 3 | Estructuras condicionales | [Ver →](./Dia-03/30NitesOfCode.md) |
+| 4 | Bucles (while y for) | [Ver →](./Dia-04/30NitesOfCode.md) |
+| 5 | Listas y métodos | [Ver →](./Dia-05/30NitesOfCode.md) |
+| 6 | Tuplas, Sets y Diccionarios | [Ver →](./Dia-06/30NitesOfCode.md) |
+| 7 | Funciones básicas | [Ver →](./Dia-07/30NitesOfCode.md) |
 
 ### Semana 2: Profundizando
 
 | Día | Tema | Enlace |
 |-----|------|--------|
-| 8 | Funciones lambda y args/kwargs | [Ver →](./Dia-8/30NitesOfCode.md) |
-| 9 | Manejo de errores (try/except) | [Ver →](./Dia-9/30NitesOfCode.md) |
+| 8 | Funciones lambda y args/kwargs | [Ver →](./Dia-08/30NitesOfCode.md) |
+| 9 | Manejo de errores (try/except) | [Ver →](./Dia-09/30NitesOfCode.md) |
 | 10 | Módulos y paquetes | [Ver →](./Dia-10/30NitesOfCode.md) |
 | 11 | Manejo de archivos | [Ver →](./Dia-11/30NitesOfCode.md) |
 | 12 | Comprensión de listas y generadores | [Ver →](./Dia-12/30NitesOfCode.md) |

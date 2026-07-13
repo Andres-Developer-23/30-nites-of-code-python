@@ -19,9 +19,9 @@ print(type("Python"))             # <class 'str'>
 
 Crea un archivo `dia1.py` y escribe un programa que:
 
-- [ ] Guarde tu nombre, edad, altura y ciudad en variables.
-- [ ] Muestre cada variable con `print()`.
-- [ ] Use `type()` para imprimir el tipo de cada variable.
-- [ ] Cree una variable con tu hobby favorito y la muestre.
+- [​✅​] Guarde tu nombre, edad, altura y ciudad en variables.
+- [​✅​] Muestre cada variable con `print()`.
+- [​✅​] Use `type()` para imprimir el tipo de cada variable.
+- [​✅​] Cree una variable con tu hobby favorito y la muestre.
 
 > Primer paso dado. ¡Sigue así! Cada día cuenta 🚀
