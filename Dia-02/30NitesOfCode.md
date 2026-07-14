@@ -23,9 +23,9 @@ print(10 > 3)     # True
 
 Crea un archivo `dia2.py` y escribe un programa que:
 
-- [ ] Pida al usuario una cantidad en euros.
-- [ ] Convierta esa cantidad a dólares (tipo de cambio fijo: 1 EUR = 1.09 USD).
-- [ ] Muestre el resultado con 2 decimales.
-- [ ] Pida su edad y determine si es mayor de edad (>= 18) usando `and`/`or`.
+- [​✅] Pida al usuario una cantidad en euros.
+- [​✅] Convierta esa cantidad a dólares (tipo de cambio fijo: 1 EUR = 1.09 USD).
+- [​✅] Muestre el resultado con 2 decimales.
+- [​✅] Pida su edad y determine si es mayor de edad (>= 18) usando `and`/`or`.
 
 > Los operadores son los ladrillos de la lógica. ¡Domínalos! 🔧
