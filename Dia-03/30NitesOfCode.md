@@ -23,10 +23,10 @@ else:
 
 Crea un archivo `dia3.py` y escribe un programa que:
 
-- [ ] Pida al usuario un número del 1 al 7.
-- [ ] Muestre el día de la semana correspondiente (1 = lunes, 7 = domingo).
-- [ ] Si el número es 6 o 7, muestre "¡Es finde! 🎉".
-- [ ] Si no está entre 1 y 7, muestre "Número inválido".
-- [ ] Clasifique la edad ingresada: niño (0-12), adolescente (13-17), adulto (18-64), adulto mayor (65+).
+- [​✅] Pida al usuario un número del 1 al 7.
+- [​✅] Muestre el día de la semana correspondiente (1 = lunes, 7 = domingo).
+- [​✅] Si el número es 6 o 7, muestre "¡Es finde! 🎉".
+- [​✅] Si no está entre 1 y 7, muestre "Número inválido".
+- [​✅] Clasifique la edad ingresada: niño (0-12), adolescente (13-17), adulto (18-64), adulto mayor (65+).
 
 > Las decisiones hacen a un programador. ¡A elegir caminos! 🛤️
