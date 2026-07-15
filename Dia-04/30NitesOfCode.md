@@ -30,9 +30,9 @@ for i in range(1, 6):
 
 Crea un archivo `dia4.py` y escribe un programa que:
 
-- [ ] Pida al usuario la altura de un triángulo (ej: 5).
-- [ ] Dibuje un triángulo rectángulo de asteriscos con esa altura.
-- [ ] Ejemplo con altura 5:
+- [​✅] Pida al usuario la altura de un triángulo (ej: 5).
+- [​✅] Dibuje un triángulo rectángulo de asteriscos con esa altura.
+- [​✅] Ejemplo con altura 5:
   ```
   *
   **
@@ -40,6 +40,6 @@ Crea un archivo `dia4.py` y escribe un programa que:
   ****
   *****
   ```
-- [ ] Sume todos los números pares del 1 al 100 usando un bucle.
+- [​✅] Sume todos los números pares del 1 al 100 usando un bucle.
 
 > Los bucles son la magia que hace mucho con poco código. ¡A repetir! 🔄
