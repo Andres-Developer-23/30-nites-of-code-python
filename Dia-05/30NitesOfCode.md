@@ -25,9 +25,9 @@ print(len(colores))          # 4
 
 Crea un archivo `dia5.py` y escribe un programa que:
 
-- [ ] Cree una lista vacía `compras = []`.
-- [ ] Muestre un menú: 1. Agregar item  2. Quitar item  3. Mostrar lista  4. Salir.
-- [ ] Use `while` para mantener el menú corriendo hasta que el usuario elija salir.
-- [ ] Muestre la lista ordenada alfabéticamente antes de salir.
+- [​✅] Cree una lista vacía `compras = []`.
+- [​✅] Muestre un menú: 1. Agregar item  2. Quitar item  3. Mostrar lista  4. Salir.
+- [​✅] Use `while` para mantener el menú corriendo hasta que el usuario elija salir.
+- [​✅] Muestre la lista ordenada alfabéticamente antes de salir.
 
 > Las listas son el bolsillo mágico de Python. ¡A llenarlo de datos! 📦
