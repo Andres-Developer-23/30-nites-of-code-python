@@ -30,10 +30,10 @@ print(capitales["España"])  # Madrid
 
 Crea un archivo `dia6.py` y escribe un programa que:
 
-- [ ] Cree un diccionario `inventario` con 3 productos (clave = nombre, valor = precio).
-- [ ] Agregue 2 productos más.
-- [ ] Muestre todos los productos y precios.
-- [ ) Actualice el precio de un producto existente.
-- [ ] Calcule el precio total del inventario.
+- [​✅] Cree un diccionario `inventario` con 3 productos (clave = nombre, valor = precio).
+- [​✅] Agregue 2 productos más.
+- [​✅] Muestre todos los productos y precios.
+- [​✅) Actualice el precio de un producto existente.
+- [​✅] Calcule el precio total del inventario.
 
 > Diccionarios: la navaja suiza de las estructuras de datos. ¡A explorar! 🔑
