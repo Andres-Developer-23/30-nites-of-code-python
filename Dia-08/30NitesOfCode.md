@@ -30,9 +30,9 @@ mostrar_info(nombre="Luis", edad=30)
 
 Crea un archivo `dia8.py` y escribe un programa que:
 
-- [ ] Tenga una lista de precios originales: `[100, 250, 75, 150, 300]`.
-- [ ] Use `map()` con una lambda para aplicar un 15% de descuento.
-- [ ] Use `filter()` para quedarse solo con los precios >= 150 después del descuento.
-- [ ] Muestre los precios originales, con descuento, y los filtrados.
+- [​✅] Tenga una lista de precios originales: `[100, 250, 75, 150, 300]`.
+- [​✅] Use `map()` con una lambda para aplicar un 15% de descuento.
+- [​✅] Use `filter()` para quedarse solo con los precios >= 150 después del descuento.
+- [​✅] Muestre los precios originales, con descuento, y los filtrados.
 
 > Lambda y args/kwargs: código elegante y flexible. ¡A compactar! ⚡
