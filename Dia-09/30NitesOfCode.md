@@ -23,9 +23,9 @@ finally:
 
 Crea un archivo `dia9.py` y escribe un programa que:
 
-- [ ] Defina una función `leer_entero(mensaje)` que pida un número y lo retorne como int.
-- [ ] Si el usuario ingresa algo que no es número, capturar `ValueError` y mostrar mensaje.
-- [ ] La función debe seguir pidiendo hasta que se ingrese un número válido.
-- [ ] Prueba la función pidiendo edad, cantidad de productos, y código postal.
+- [​✅] Defina una función `leer_entero(mensaje)` que pida un número y lo retorne como int.
+- [​✅] Si el usuario ingresa algo que no es número, capturar `ValueError` y mostrar mensaje.
+- [​✅] La función debe seguir pidiendo hasta que se ingrese un número válido.
+- [​✅] Prueba la función pidiendo edad, cantidad de productos, y código postal.
 
 > Los errores no son fracasos, son oportunidades de aprender. ¡A manejarlos! 🛡️
